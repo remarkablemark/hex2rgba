@@ -2,6 +2,7 @@
   "name": "hex2rgba",
   "description": "Converts hexadecimal to RGBA.",
   "author": "Mark <mark@remarkablemark.org>",
+  "main": "index.js",
   "keywords": [
     "hex",
     "hexadecimal",
