@@ -11,5 +11,8 @@
     "color",
     "converter"
   ],
+  "devDependencies": {
+    "eslint": "3.19.0"
+  },
   "license": "MIT"
 }
