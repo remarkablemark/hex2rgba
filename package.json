@@ -3,6 +3,9 @@
   "description": "Converts hexadecimal to RGBA.",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore ."
+  },
   "keywords": [
     "hex",
     "hexadecimal",
