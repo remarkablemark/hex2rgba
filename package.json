@@ -15,7 +15,8 @@
     "converter"
   ],
   "devDependencies": {
-    "eslint": "3.19.0"
+    "eslint": "3.19.0",
+    "mocha": "3.4.1"
   },
   "license": "MIT"
 }
