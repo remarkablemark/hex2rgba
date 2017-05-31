@@ -4,6 +4,7 @@
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
   "scripts": {
+    "test": "mocha",
     "lint": "eslint --ignore-path .gitignore ."
   },
   "keywords": [
