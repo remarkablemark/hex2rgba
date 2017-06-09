@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha",
     "lint": "eslint --ignore-path .gitignore .",
-    "cover": "istanbul cover _mocha"
+    "cover": "istanbul cover _mocha",
+    "coveralls": "cat coverage/lcov.info | coveralls"
   },
   "keywords": [
     "hex",
