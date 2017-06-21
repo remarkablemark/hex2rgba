@@ -9,6 +9,13 @@
     "cover": "istanbul cover _mocha",
     "coveralls": "cat coverage/lcov.info | coveralls"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remarkablemark/hex2rgba"
+  },
+  "bugs": {
+    "url": "https://github.com/remarkablemark/hex2rgba/issues"
+  },
   "keywords": [
     "hex",
     "hexadecimal",
