@@ -1,5 +1,11 @@
 # hex2rgba
 
+[![NPM](https://nodei.co/npm/hex2rgba.png)](https://nodei.co/npm/hex2rgba/)
+
+[![NPM version](https://img.shields.io/npm/v/hex2rgba.svg)](https://www.npmjs.com/package/hex2rgba)
+[![Build Status](https://travis-ci.org/remarkablemark/hex2rgba.svg?branch=master)](https://travis-ci.org/remarkablemark/hex2rgba)
+[![Coverage Status](https://coveralls.io/repos/github/remarkablemark/hex2rgba/badge.svg?branch=master)](https://coveralls.io/github/remarkablemark/hex2rgba?branch=master)
+
 Converts hexadecimal to RGBA:
 
 ```
