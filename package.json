@@ -1,5 +1,6 @@
 {
   "name": "hex2rgba",
+  "version": "0.0.1",
   "description": "Converts hexadecimal to RGBA.",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
